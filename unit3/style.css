@@ -1,0 +1,67 @@
+body 
+{
+	color: white;
+	background: url(Unit3ProjectAssets/Assets/background.jpg);
+	background-size: cover;
+	
+}
+	
+p {
+	font-family: Helvetica-Light;
+	font-size: 20px;
+}
+
+hr 
+{
+	border-color: red;
+	width: 50px;
+	margin-left: 0px
+}
+
+
+div.main {
+ 	margin-top: 300px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px
+}
+
+div.stripes {		
+   	background-image: url("Unit3ProjectAssets/Assets/stripes.png");
+	background-repeat: repeat;
+	height: 15px;
+    padding:0;
+}
+
+	
+	
+
+		
+		
+
+
+	
+
+	
+	
+
+
+
+
+
+
+
+/*Make use of some the property declarations you learned in this unit, such as:
+
+background
+font-size
+font-family
+color
+height
+width
+padding
+Align text using:
+
+margin
+font-weight
+line-height*/
