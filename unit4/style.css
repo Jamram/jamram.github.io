@@ -2,7 +2,7 @@ body {
 	background-image: url("Hot_pizza.jpg");
 	background-repeat:no-repeat;
 	background-color:rgb(206, 88, 39);
-	/*background-size: cover;*/
+	background-size: cover;
 	background-image: relative;
 	left:7000px;
 	color:white;
