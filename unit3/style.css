@@ -1,13 +1,15 @@
 body 
 {
 	color: white;
-	background: url(Unit3ProjectAssets/Assets/background.jpg);
-	background-size: cover;
+	background: url("Unit3ProjectAssets/Assets/stripes.png"), url("Unit3ProjectAssets/Assets/background.jpg");
+	background-size: auto, cover;
+	background-repeat: repeat-x, no-repeat;
 	
 }
 	
 p {
-	font-family: Helvetica-Light;
+	font-family: 'Helvetica';
+	font-weight: 100;
 	font-size: 20px;
 }
 
@@ -23,17 +25,12 @@ div.main {
  	margin-top: 300px;
     margin-bottom: 100px;
     margin-right: 150px;
-    margin-left: 100px
+    margin-left: 50px
 }
 
-div.stripes {		
-   	background-image: url("Unit3ProjectAssets/Assets/stripes.png");
-	background-repeat: repeat;
-	height: 15px;
-    padding:0;
-}
 
-	
+
+
 	
 
 		
